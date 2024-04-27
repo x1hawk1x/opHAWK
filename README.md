@@ -1,2 +1,1 @@
-# opHAWK
-opHAWK on Optimism
+opHAWK token contract and logo
